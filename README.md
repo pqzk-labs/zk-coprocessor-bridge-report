@@ -12,6 +12,10 @@ We provide a **ZK Coprocessor Bridge SDK** (plus optional managed relayer/prover
   - **Arcium (DeCC):** encrypted compute via MPC; job‑based confidential workloads.  
 These validate usage‑based monetization for ZK/secure compute and inform our pricing posture.
 
+<div align="center">
+  <img src="img/solana-lending-tvl.png" width="1000" alt="Solana Lending TVL">
+</div>
+
 ## Model & Scenarios
 **Monetization (SKUs):**
 - **SDK (self‑hosted):** bps on private‑compute volume or per‑message fee.
