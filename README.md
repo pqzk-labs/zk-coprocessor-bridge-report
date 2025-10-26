@@ -2,21 +2,22 @@
 
 **Date:** Oct 2025
 
-## Summary & Market
+## 📊 Summary & Market
 We provide a **ZK Coprocessor Bridge SDK** (plus optional managed relayer/prover) that lets Solana apps trigger **private ZK compute on Aztec** via Ethereum/Wormhole with replay‑safe finality.
 
 - **Market snapshot (as of Oct 2025):** Solana Lending TVL ≈ **$4.2B** (DeFiLlama snapshot). Ethereum ZK/L2 ecosystems secure significant value, indicating sustained demand for privacy + interoperability rails.
+
+<div align="center">
+  <img src="img/solana-lending-tvl.png" width="1000" alt="Solana Lending TVL">
+</div>
+
 - **Comparable models:**  
   - **RISC Zero (Bonsai):** remote proving with verifiable receipts (usage‑based).  
   - **Succinct (SP1):** zkVM + prover network / coprocessor model (per‑proof/volume).  
   - **Arcium (DeCC):** encrypted compute via MPC; job‑based confidential workloads.  
 These validate usage‑based monetization for ZK/secure compute and inform our pricing posture.
 
-<div align="center">
-  <img src="img/solana-lending-tvl.png" width="1000" alt="Solana Lending TVL">
-</div>
-
-## Model & Scenarios
+## 📈 Model & Scenarios
 **Monetization (SKUs):**
 - **SDK (self‑hosted):** bps on private‑compute volume or per‑message fee.
 - **Managed (relayer/prover):** per‑proof fee + SLA.
@@ -46,7 +47,7 @@ These validate usage‑based monetization for ZK/secure compute and inform our p
 - **Pricing pilot:** bps on processed private‑compute volume (rebate for early adopters).
 - **Proof points:** monthly **volume / success rate / latency / unit cost** (public dashboard).
 
-## References
+## 🔗 References
 - DeFiLlama — Lending on Solana (TVL snapshot). <https://defillama.com/>  
 - L2BEAT — Total Value Secured (TVS) and ecosystem context. <https://l2beat.com/>  
 - RISC Zero Docs (Bonsai, receipts). <https://docs.risczero.com/>  
