@@ -1,5 +1,3 @@
-<style> .inner { max-width: 800px !important; }</style>
-
 # Business Report v1.0 — Market & Viability <br> (ZK Coprocessor Bridge)
 
 **Date:** Oct 2025
@@ -59,3 +57,5 @@ These validate usage‑based monetization for ZK/secure compute and inform our p
 - RISC Zero Docs (Bonsai, receipts). <https://docs.risczero.com/>  
 - Succinct / SP1 zkVM. <https://docs.succinct.xyz/> · <https://github.com/succinctlabs>  
 - Arcium Docs (DeCC/MPC). <https://docs.arcium.com/>
+
+<style> .inner { max-width: 800px !important; }</style>
