@@ -1,3 +1,5 @@
+<style> .inner { max-width: 800px !important; }</style>
+
 # Business Report v1.0 — Market & Viability <br> (ZK Coprocessor Bridge)
 
 **Date:** Oct 2025
@@ -31,11 +33,15 @@ These validate usage‑based monetization for ZK/secure compute and inform our p
 
 **Scenario ranges (illustrative, narrowed spread):**
 
+<div align="center" markdown="1">
+
 | Case         | TVL_captured | fee_rate | monthly_velocity | LP/SDK split | **LP APR** | **SDK ARR** |
 |--------------|-------------:|---------:|-----------------:|-------------:|-----------:|------------:|
 | Conservative | $300M        | 20 bp    | 0.4×             | 70% / 30%    | **0.67%**  | **$0.86M**  |
 | Base         | $500M        | 30 bp    | 0.5×             | 70% / 30%    | **1.26%**  | **$2.70M**  |
 | Upside       | $700M        | 40 bp    | 0.7×             | 75% / 25%    | **2.52%**  | **$5.88M**  |
+
+</div>
 
 **Assumptions (compact):**
 - `TVL_captured` = incremental privacy‑enabled flows tapping EVM‑side ZK liquidity.
