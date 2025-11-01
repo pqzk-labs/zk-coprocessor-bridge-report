@@ -58,4 +58,4 @@ These validate usage‑based monetization for ZK/secure compute and inform our p
 - Succinct / SP1 zkVM. <https://docs.succinct.xyz/> · <https://github.com/succinctlabs>  
 - Arcium Docs (DeCC/MPC). <https://docs.arcium.com/>
 
-<style> .inner { max-width: 840px !important; }</style>
+<style> body { display: grid; } .inner { max-width: 840px !important; }</style>
