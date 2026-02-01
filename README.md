@@ -1,6 +1,8 @@
 # Hackathon Hypothesis Report v1.0 <br> (ZK Coprocessor Bridge)
 
-**Date:** Oct 2025
+**Date:** Oct 2025, **Update:** Feb 2026  
+
+This report documents a set of hypotheses explored during the Solana Cypherpunk Hackathon.
 
 ## 📊 Summary & Market
 We provide a **ZK Coprocessor Bridge SDK** (plus optional managed relayer/prover) that lets Solana apps trigger **private ZK compute on Aztec** via Ethereum/Wormhole with replay‑safe finality.
