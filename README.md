@@ -1,6 +1,6 @@
 # Hackathon Hypothesis Report v1.0 <br> (ZK Coprocessor Bridge)
 
-**Date:** Oct 2025, **Update:** Feb 2026  
+**Date:** Oct 2025, **Last update:** Feb 2026  
 
 This report documents a set of hypotheses explored during the Solana Cypherpunk Hackathon.
 
