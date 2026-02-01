@@ -1,4 +1,4 @@
-# Business Report v1.0 — Market & Viability <br> (ZK Coprocessor Bridge)
+# Hackathon Hypothesis Report v1.0 <br> (ZK Coprocessor Bridge)
 
 **Date:** Oct 2025
 
